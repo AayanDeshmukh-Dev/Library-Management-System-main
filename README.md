@@ -37,8 +37,7 @@ A comprehensive library management system built with the MERN stack (MongoDB, Ex
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Sahil7898-sahu/Library-Management-System.git
-   cd library-management
+     git remote add origin https://github.com/AayanDeshmukh-Dev/Library-Management-System-main.git
    ```
 
 2. **Install backend dependencies**
